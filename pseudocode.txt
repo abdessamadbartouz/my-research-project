@@ -1,0 +1,8 @@
+START
+Load dataset
+Clean data
+Train model
+Evaluate performance
+Save results
+END
+
